@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <link rel="stylesheet" href="contact.css">
+    <style>
+        .container {
+            display: flex;
+        }
+        .left {
+            width: 20%;
+        }
+        .right {
+            width: 80%;
+            padding: 20px;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            width: 300px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+    <!-- Navbar -->
+    <div class="left">
+        <object data="navbar.html" type="text/html" width="100%" height="600"></object>
+    </div>
+
+    <!-- Right Content -->
+    <div class="right">
+
+        <object data="header.html" type="text/html" width="100%" height="200"></object>
+
+        <h1>Contact Us</h1>
+
+        <form>
+            <label>Enter FirstName</label>
+            <input type="text" name="name" placeholder="Enter Firstname" required>
+                <label>Enter LastName</label>
+            <input type="text" name="name" placeholder="Enter Lastname" required>
+
+            <label>Phone number</label>
+            <input type="tel" name="number" placeholder="Enter number" required>
+            <label>Email</label>
+            <input type="email" name="mail" placeholder="Enter your email" required>
+
+           <!--  <label>Searching</label>
+           //  <input type="search" name="search" placeholder="search here"> 
+           //  <label>Password</label>
+           //  <input type="password" name="password" placeholder="Enter password" required>
+
+           //  <label>Confirm Password</label>
+           //  <input type="password" name="cpassword" placeholder="Confirm password" required>
+        -->
+
+            <input type="submit" value="Submit">
+        </form>
+
+        <object data="footer.html" type="text/html" width="100%" height="200"></object>
+
+    </div>
+
+</div>
+
+</body>
+</html>
