@@ -18,7 +18,7 @@ The portfolio is structured into the following sections:
 Follow these steps to run the project locally:
 1. Clone the repository:  
     bash  
-    git clone https://github.com/pasham balaram/portfolio-Html-CSS.git  
+    git clone https://github.com/pashambalaram/portfolio-Html-CSS.git  
       
 2. Open the project folder in *Visual Studio Code (VS Code)* (or your preferred editor).  
 3. Ensure the *Live Server* extension is installed in VS Code.  
@@ -37,4 +37,4 @@ Follow these steps to run the project locally:
 Would love to hear from you!  
 - Email:pashambalaram@gmail.com.com
 - LinkedIn: [https://www.linkedin.com/in/pasham balaram 0558bb290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- GitHub: [pasham balaram](https://github.com/pasham balaram)
+- GitHub: [pasham balaram](https://github.com/pashambalaram)
