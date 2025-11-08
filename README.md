@@ -36,5 +36,5 @@ Follow these steps to run the project locally:
 ## 📫 Contact  
 Would love to hear from you!  
 - Email:pashambalaram@gmail.com.com
-- LinkedIn: [https://www.linkedin.com/in/pasham balaram ?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- LinkedIn: [https://www.linkedin.com/in/Pasham Balaram]
 - GitHub: [pasham balaram](https://github.com/pashambalaram)
